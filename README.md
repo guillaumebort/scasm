@@ -1,5 +1,5 @@
 # scasm
-## writing a dynamic assembler for the JVM
+## writing a dynamic x86_64 assembler in Scala
 
 This is the final code for my live coding session at **DevoxxFR 2016** I have made with [Criteo Labs](http://labs.criteo.com/). The goal of this presentation was to write a dynamic assembler in Scala; or how to create a Scala function from the final `x86_64` assembly code.
 
