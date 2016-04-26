@@ -3,6 +3,8 @@
 
 This is the final code for my live coding session at **DevoxxFR 2016** I have made with [Criteo Labs](http://labs.criteo.com/). The goal of this presentation was to write a dynamic assembler in Scala; or how to create a Scala function from the final `x86_64` assembly code.
 
+Have a look at the [final code](https://github.com/guillaumebort/scasm/blob/master/scasm.scala).
+
 Do not ask for the final goal of this: this is more a learning vehicle to abord several interesting topics.
 
 As an example function I wanted to generate at runtime, I decided to go with the `add: (Int,Int) => Int` function. The assembly code for that is:
